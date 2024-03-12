@@ -1,0 +1,22 @@
+{
+  "name": "fabs-tailwind",
+  "version": "1.0.0",
+  "description": "buat web",
+  "main": "index.js",
+  "scripts": {
+    "test": "haloo"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apipk/Fab-Tailwind.git"
+  },
+  "bugs": {
+    "url": "https://github.com/apipk/Fab-Tailwind/issues"
+  },
+  "homepage": "https://github.com/apipk/Fab-Tailwind#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
